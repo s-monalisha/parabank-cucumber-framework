@@ -1,0 +1,54 @@
+2026-03-16 20:54:52 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 20:54:52 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 20:54:52 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 20:54:57 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 20:54:57 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 20:54:57 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 20:54:57 INFO  stepDefinitions.RegisterSteps - Navigating to registration page
+2026-03-16 20:54:58 INFO  pages.RegisterPage - Filling Registration Form
+2026-03-16 20:54:59 INFO  stepDefinitions.RegisterSteps - register button clicked
+2026-03-16 21:04:09 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:04:09 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:04:09 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:04:14 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:04:14 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:04:14 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:04:14 INFO  stepDefinitions.RegisterSteps - Navigating to registration page
+2026-03-16 21:04:15 INFO  pages.RegisterPage - Filling Registration Form
+2026-03-16 21:04:16 INFO  stepDefinitions.RegisterSteps - register button clicked
+2026-03-16 21:08:13 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:08:13 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:08:13 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:08:17 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:08:17 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:08:17 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:08:17 INFO  stepDefinitions.RegisterSteps - Navigating to registration page
+2026-03-16 21:08:18 INFO  pages.RegisterPage - Filling Registration Form
+2026-03-16 21:08:19 INFO  stepDefinitions.RegisterSteps - register button clicked
+2026-03-16 21:10:56 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:10:56 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:10:56 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:11:00 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:11:00 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:11:00 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:11:00 INFO  stepDefinitions.RegisterSteps - Navigating to registration page
+2026-03-16 21:11:01 INFO  pages.RegisterPage - Filling Registration Form
+2026-03-16 21:11:02 INFO  stepDefinitions.RegisterSteps - register button clicked
+2026-03-16 21:16:42 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:16:42 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:16:42 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:16:47 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:16:47 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:16:47 INFO  stepDefinitions.RegisterSteps - Navigating to registration page
+2026-03-16 21:16:48 INFO  pages.RegisterPage - Filling Registration Form
+2026-03-16 21:16:48 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:16:49 INFO  stepDefinitions.RegisterSteps - register button clicked
+2026-03-16 21:17:24 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:17:24 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:17:24 INFO  base.DriverFactory - Initialising Web Browser
+2026-03-16 21:17:27 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:17:27 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:17:27 INFO  stepDefinitions.RegisterSteps - Navigating to registration page
+2026-03-16 21:17:28 INFO  pages.RegisterPage - Filling Registration Form
+2026-03-16 21:17:28 INFO  base.DriverFactory - Navigated to URL: https://parabank.parasoft.com/parabank/index.htm
+2026-03-16 21:17:30 INFO  stepDefinitions.RegisterSteps - register button clicked

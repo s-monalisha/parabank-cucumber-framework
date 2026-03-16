@@ -1,0 +1,10 @@
+stepDefinitions\RegisterSteps.class
+stepDefinitions\LoginSteps.class
+hooks\AppHooks.class
+utilities\ExtentManager.class
+utilities\TestDataProvider.class
+runners\TestRunner.class
+utilities\ExtentTestManager.class
+utilities\ExcelReader.class
+utilities\ScreenshotUtil.class
+stepDefinitions\TransferFundsSteps.class

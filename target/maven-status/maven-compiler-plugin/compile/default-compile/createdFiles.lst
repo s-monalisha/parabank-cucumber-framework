@@ -1,0 +1,5 @@
+config\ConfigReader.class
+base\DriverFactory.class
+pages\RegisterPage.class
+pages\LoginPage.class
+pages\TransferFundsPage.class
