@@ -9,9 +9,10 @@ pipeline {
     stages {
 
         stage('Checkout Code') {
-            steps {
-                git 'https://github.com/username/parabank-cucumber-framework.git'
-            }
+    steps {
+        git 'https://github.com/s-monalisha/parabank-cucumber-framework.git'
+    }
+}
         }
 
         stage('Build Project') {
