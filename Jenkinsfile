@@ -9,21 +9,20 @@ pipeline {
     stages {
 
         stage('Checkout Code') {
-    steps {
-        git 'https://github.com/s-monalisha/parabank-cucumber-framework.git'
-    }
-}
+            steps {
+                git 'https://github.com/s-monalisha/parabank-cucumber-framework.git'
+            }
         }
 
         stage('Build Project') {
             steps {
-                sh 'mvn clean compile'
+                bat 'mvn clean compile'
             }
         }
 
         stage('Run Automation Tests') {
             steps {
-                sh 'mvn test'
+                bat 'mvn test'
             }
         }
 
